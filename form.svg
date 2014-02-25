@@ -2863,4 +2863,13 @@
 </g>
 <path style="fill:none;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.000625 -0.00175 L 201.570938 -0.00175 " transform="matrix(1,0,0,-1,334.015,619.467)"/>
 </g>
+<tspan x = "0.0" y = "0.0">$$__HMAC__$$</tspan>
+<tspan x = "0.0" y = "0.0">$$__QR_DATA_URI_STR__$$</tspan>
+<tspan x = "0.0" y = "0.0">$$__YEAR__$$</tspan>
+<tspan x = "0.0" y = "0.0">$$__COMP_DATE__$$</tspan>
+<tspan x = "0.0" y = "0.0">$$__NAME__$$</tspan>
+<tspan x = "0.0" y = "0.0">$$__SCHOOL__$$</tspan>
+<tspan x = "0.0" y = "0.0">$$__LINK__$$</tspan>
+<tspan x = "0.0" y = "0.0">$$__GENERATION__$$</tspan>
+<tspan x = "0.0" y = "0.0">$$__VERSION__$$</tspan>
 </svg>
