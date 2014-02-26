@@ -8,7 +8,7 @@ AuthBasicProvider ldap
 AuthLDAPURL ldap://localhost:389/ou=users,o=sr?uid?base?(objectClass=*)
 Require valid-user
 
-DirectoryIndex get-ticket.php
+DirectoryIndex get-mcf.php
 
 <Files tickets>
 Order deny,allow
