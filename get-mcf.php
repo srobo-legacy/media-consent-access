@@ -1,7 +1,6 @@
 <?php
 
 $user = $_SERVER['REMOTE_USER'];
-$user = "ide";
 
 $base_dir = dirname(__FILE__) . '/pdfs';
 
