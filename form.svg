@@ -2864,10 +2864,10 @@
 <path style="fill:none;stroke-width:0.398;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.000625 -0.00175 L 201.570938 -0.00175 " transform="matrix(1,0,0,-1,334.015,619.467)"/>
 </g>
 <text>
-<tspan x = "110.0" y = "190.0" style="font-size:8px;font-weight:bold">$$__FIRSTNAME__$$</tspan>
-<tspan x = "350.0" y = "190.0" style="font-size:8px;font-weight:bold">$$__LASTNAME__$$</tspan>
-<tspan x = "110.0" y = "210.0" style="font-size:8px;font-weight:bold">$$__USERNAME__$$</tspan>
-<tspan x = "350.0" y = "210.0" style="font-size:8px;font-weight:bold">$$__SCHOOL__$$</tspan>
+<tspan x = "112.0" y = "190.0" style="font-size:8px;font-weight:bold">$$__FIRSTNAME__$$</tspan>
+<tspan x = "352.0" y = "190.0" style="font-size:8px;font-weight:bold">$$__LASTNAME__$$</tspan>
+<tspan x = "112.0" y = "210.0" style="font-size:8px;font-weight:bold">$$__USERNAME__$$</tspan>
+<tspan x = "352.0" y = "210.0" style="font-size:8px;font-weight:bold">$$__SCHOOL__$$</tspan>
 <tspan x = "20.0" y = "10.0" style="font-size:8px;font-weight:bold">$$__QR_DATA_URI_STR__$$</tspan>
 <tspan x = "80.0" y = "10.0" style="font-size:8px;font-weight:bold">$$__GENERATION__$$</tspan>
 <tspan x = "10.0" y = "10.0" style="font-size:8px;font-weight:bold">$$__HMAC__$$</tspan>
