@@ -2868,9 +2868,18 @@
 <tspan x = "352.0" y = "190.0" style="font-size:8px;font-weight:bold">$$__LASTNAME__$$</tspan>
 <tspan x = "112.0" y = "210.0" style="font-size:8px;font-weight:bold">$$__USERNAME__$$</tspan>
 <tspan x = "352.0" y = "210.0" style="font-size:8px;font-weight:bold">$$__SCHOOL__$$</tspan>
-<tspan x = "20.0" y = "10.0" style="font-size:8px;font-weight:bold">$$__QR_DATA_URI_STR__$$</tspan>
 <tspan x = "80.0" y = "10.0" style="font-size:8px;font-weight:bold">$$__GENERATION__$$</tspan>
-<tspan x = "10.0" y = "10.0" style="font-size:8px;font-weight:bold">$$__HMAC__$$</tspan>
+<tspan x = "10.0" y = "100.0" style="font-size:8px;font-weight:bold">$$__HMAC__$$</tspan>
 <tspan x = "90.0" y = "10.0" style="font-size:8px;font-weight:bold">$$__VERSION__$$</tspan>
 </text>
+<image
+       sodipodi:absref="/home/chris/sr/tickets/$$__QR_DATA_URI_STR__$$"
+       xlink:href="$$__QR_DATA_URI_STR__$$"
+       y="650.0"
+       x="100.0"
+       id="image3333"
+       height="150.24084"
+       width="150.24084" />
+<tspan x = "20.0" y = "10.0" style="font-size:8px;font-weight:bold">$$__QR_DATA_URI_STR__$$</tspan>
+
 </svg>
