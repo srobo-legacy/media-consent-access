@@ -12,6 +12,9 @@ if (!file_exists($ticket_name)) {
     $s_user = escapeshellarg($user);
     $s_ticket_name = escapeshellarg($ticket_name);
     exec("cd tickets; python generate.py $s_user -o $s_ticket_name 2>&1", $output, $rv);
+    if ($rv != 0) {
+        trigger_error($output, E_USER_ERROR);
+    }
     if ($rv == 3) {
         header('HTTP/1.1 403 Forbidden');
         print "This user account has been withdrawn, and may not attend the competition.<br />";
