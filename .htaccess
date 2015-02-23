@@ -2,7 +2,7 @@
 # Deny from all
 
 AuthType basic
-AuthName "Student Robotics Ticketing system"
+AuthName "Student Robotics media consent forms"
 AuthBasicProvider ldap
 
 AuthLDAPURL ldap://localhost:389/ou=users,o=sr?uid?base?(objectClass=*)
