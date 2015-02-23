@@ -2903,9 +2903,9 @@
 
 <text>
 <tspan x = "115.0" y = "180.0" style="font-size:8px;font-weight:bold">$$__FIRSTNAME__$$</tspan>
-<tspan x = "355.0" y = "180.0" style="font-size:8px;font-weight:bold">$$__LASTNAME__$$</tspan>
+<tspan x = "300.0" y = "180.0" style="font-size:8px;font-weight:bold">$$__LASTNAME__$$</tspan>
 <tspan x = "115.0" y = "200.0" style="font-size:8px;font-weight:bold">$$__USERNAME__$$</tspan>
-<tspan x = "355.0" y = "200.0" style="font-size:8px;font-weight:bold">$$__SCHOOL__$$</tspan>
+<tspan x = "300.0" y = "200.0" style="font-size:8px;font-weight:bold">$$__SCHOOL__$$</tspan>
 </text>
 <image
        sodipodi:absref="/home/chris/sr/tickets/$$__QR_DATA_URI_STR__$$"
