@@ -13,7 +13,7 @@
    viewBox="0 0 596 842"
    version="1.2"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="form.svg">
   <metadata
      id="metadata4499">
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1652"
+     inkscape:window-height="1141"
      id="namedview4497"
      showgrid="false"
-     inkscape:zoom="3.5876484"
-     inkscape:cx="267.82224"
-     inkscape:cy="800.71451"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.2684253"
+     inkscape:cx="400.69907"
+     inkscape:cy="383.07555"
+     inkscape:window-x="989"
+     inkscape:window-y="78"
+     inkscape:window-maximized="0"
      inkscape:current-layer="surface1" />
   <defs
      id="defs4">
@@ -10895,7 +10896,19 @@
        d="M 0.000625 0.000125 L 201.570938 0.000125 "
        transform="matrix(1,0,0,-1,334.015,631.422)"
        id="path4477" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6450"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:125%;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0.0715332,0)"><flowRegion
+         id="flowRegion6452"><rect
+           id="rect6454"
+           width="503.93195"
+           height="23.966743"
+           x="45.770172"
+           y="784.60602" /></flowRegion><flowPara
+         id="flowPara6456"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Medium';text-align:justify;text-anchor:start">Student Robotics is a Charitable Incorporated Organisation registered in England and Wales with registration number 1163168 and registered office at 4 Bankside Place, Vale Terrace, London, N4 1LT.</flowPara></flowRoot>  </g>
   <g
      id="logosurface"
      transform="matrix(0.14 0 0 0.14 58 57)">
@@ -10936,11 +10949,11 @@
        id="tspan4494">$$__SCHOOL__$$</tspan>
   </text>
   <image
-     sodipodi:absref="/home/jmorse/sr/media-consent-access/$$__QR_DATA_URI_STR__$$"
+     sodipodi:absref="/home/rob/sr/dev/media-consent-access/$$__QR_DATA_URI_STR__$$"
      xlink:href="$$__QR_DATA_URI_STR__$$"
-     width="150.24084"
-     height="150.24084"
-     id="image3333"
+     y="630.0"
      x="46.0"
-     y="630.0" />
+     id="image3333"
+     height="150.24084"
+     width="150.24084" />
 </svg>
